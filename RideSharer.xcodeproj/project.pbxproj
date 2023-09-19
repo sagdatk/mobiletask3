@@ -292,6 +292,7 @@
 				DEVELOPMENT_TEAM = Z72V7S4H73;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RideSharer/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location permission is required to request a ride";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +321,7 @@
 				DEVELOPMENT_TEAM = Z72V7S4H73;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RideSharer/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location permission is required to request a ride";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
